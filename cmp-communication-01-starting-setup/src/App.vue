@@ -8,11 +8,12 @@
         name="Umid Rustamov1"
         phone="9999999"
         email="rustamov@gmail.com"
+        favorite="0"
       ></friend-contact>
       <friend-contact
-        name="Valisher Botirov"
+        name="Zarifa Atoyeva"
         phone="324234234"
-        email="valisher1218@gmail.com"
+        email="zarifa@gmail.com"
       ></friend-contact>
     </ul>
   </section>
